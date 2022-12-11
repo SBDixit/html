@@ -1,0 +1,7 @@
+ul{
+    color:rgb(25, 0, 116);
+}
+
+h1::first-line{
+    color:brown;
+}
